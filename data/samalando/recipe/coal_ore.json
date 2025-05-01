@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+      "#": [
+        "minecraft:stone",
+        "minecraft:cobblestone"
+      ],
+      "X": "minecraft:coal"
+    },
+    "pattern": [
+      "X#X",
+      "#X#",
+      "X#X"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:coal_ore"
+    }
+  }
