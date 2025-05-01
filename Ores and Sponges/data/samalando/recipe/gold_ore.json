@@ -2,8 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "key": {
       "#": [
-        "minecraft:stone",
-        "minecraft:cobblestone"
+        "minecraft:stone"
       ],
       "X": "minecraft:raw_gold"
     },
